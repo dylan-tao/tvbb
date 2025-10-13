@@ -1,4 +1,4 @@
-name: Test
+name: tvbb-build-apk
 
 on:
   schedule:
