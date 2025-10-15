@@ -143,9 +143,9 @@ jobs:
             base=$(basename "$file")
             # 如果文件是 TVBox_ 开头
             if [[ "$base" == TVBox_* ]]; then
-              new_base=$(echo "$base" | sed "s/release/${{ matrix.userName }}_${{ env.tag }}/")
+              new_base=$(echo "$base" | sed "s/release/${{ matrix.branchName }}_${{ matrix.userName }}/")
             else
-              new_base="TVBox_${{ matrix.userName }}_${{ env.tag }}.apk"
+              new_base="TVB_${{ matrix.branchName }}_${{ matrix.userName }}.apk"
             fi
             # 移动并重命名文件
             mv "$file" "apk/$new_base"
