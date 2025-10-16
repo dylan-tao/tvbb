@@ -8,4 +8,4 @@
 ## Credits
 This repo relies on the following third-party projects:
 - [dylan-tao/wtvb](https://github.com/dylan-tao/wtvb) (Updated: 9406ca0f3222eb0b534db19c7f4777c264430796)
-- [dylan-tao/btvb](https://github.com/dylan-tao/btvb) (Updated: 21475d79b70179d921b239aefadcb60c89d4e5f9)
+- [dylan-tao/btvb](https://github.com/dylan-tao/btvb) (Updated: 3e1d813c5935d2bf4aa1929b8e9a938dc39b8c85)
