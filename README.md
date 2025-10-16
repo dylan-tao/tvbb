@@ -7,6 +7,5 @@
 
 ## Credits
 This repo relies on the following third-party projects:
-- [CatVodTVOfficial/TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC)
 - [dylan-tao/wtvb](https://github.com/dylan-tao/wtvb) (Updated: 9406ca0f3222eb0b534db19c7f4777c264430796)
 - [dylan-tao/btvb](https://github.com/dylan-tao/btvb) (Updated: 9fcd86189c7818ca26284aa69c4ce29c7a30b87f)
