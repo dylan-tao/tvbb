@@ -26,7 +26,7 @@ jobs:
             branchName: release-20250513
           - userName: dylan-tao
             repoName: btvb
-            branchName: main
+            branchName: release-20250706
             java_ver: 17
     steps:
       - name: Checkout
