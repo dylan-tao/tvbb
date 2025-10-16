@@ -2,7 +2,7 @@ name: tvbb-build-apk
 
 on:
   schedule:
-    - cron: 6 9 4 28 6 ? *
+    - cron: 59 */8 * * *
   workflow_dispatch:
     inputs:
       rebuild:
